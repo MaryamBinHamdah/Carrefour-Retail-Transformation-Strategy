@@ -145,4 +145,4 @@ This project significantly enhanced my understanding of how IT strategy must be 
 ## 📄 Project Documentation
 
 For a detailed explanation of the methodology, analysis, and implementation plans, please refer to the full project report:
-* [View IT Strategy and Governance Project Report (PDF)](CIS4203Group4ReportNoura_Mariam_Hessa_Maitha.pdf)
+* [Carrefour-Retail-Transformation-Strategy-Report (PDF)](Carrefour-Retail-Transformation-Strategy-Report.docx/Carrefour-Retail-Transformation-Strategy-Report.pdf)
